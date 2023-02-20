@@ -1,0 +1,310 @@
+{
+  "name": "cherie-font",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "9affc98d652b86628d650ee58dbf0357",
+      "css": "basket",
+      "code": 59416,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "e126987944593dfee041f8e2a68145db",
+      "css": "basket-1",
+      "code": 59417,
+      "src": "entypo"
+    },
+    {
+      "uid": "e0d15ef5945000f5f264acc35494002f",
+      "css": "basket-2",
+      "code": 59418,
+      "src": "typicons"
+    },
+    {
+      "uid": "vqyhv5kmwcj9zxq28dhq5npykr2k39co",
+      "css": "basket-3",
+      "code": 59419,
+      "src": "modernpics"
+    },
+    {
+      "uid": "s51at1xi1fkaomxvp6dqaax5jmyhtn4h",
+      "css": "basket-alt",
+      "code": 59420,
+      "src": "modernpics"
+    },
+    {
+      "uid": "c1f0120c5cb9af80a2f56d7d7fb2f489",
+      "css": "cart",
+      "code": 59421,
+      "src": "zocial"
+    },
+    {
+      "uid": "f5686c8ccdc0213b081ef95678160b6d",
+      "css": "basket-4",
+      "code": 59422,
+      "src": "elusive"
+    },
+    {
+      "uid": "fbc62ccfe2241037d5b9abf65204aef8",
+      "css": "basket-circled",
+      "code": 59423,
+      "src": "elusive"
+    },
+    {
+      "uid": "ea23853cd78c480bbe5483cb96f4837b",
+      "css": "ic_info",
+      "code": 59412,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M478 261V304H522V261H478ZM478 391V783H522V391H478ZM500 0C226 0 0 226 0 500S226 1000 500 1000 1000 774 1000 500 774 0 500 0ZM500 957C248 957 44 752 44 500S248 43 500 43 957 248 957 500 752 957 500 957ZM478 783H522V391H478V783ZM478 304H522V261H478V304ZM478 783H522V391H478V783ZM478 261V304H522V261H478Z",
+        "width": 1000
+      },
+      "search": [
+        "ic_info"
+      ]
+    },
+    {
+      "uid": "e143d918da2c9556f0a5b30b3687fc37",
+      "css": "union",
+      "code": 59413,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M657 378L626 348 504 470 378 348 348 378 470 500 348 626 378 656 500 535 622 656 652 626 530 504 657 378ZM657 378L626 348 504 470 378 348 348 378 470 500 348 626 378 656 500 535 622 656 652 626 530 504 657 378ZM657 378L626 348 504 470 378 348 348 378 470 500 348 626 378 656 500 535 622 656 652 626 530 504 657 378ZM500 0C226 0 0 226 0 500S226 1000 500 1000 1000 774 1000 500 774 0 500 0ZM500 957C248 957 44 752 44 500S248 43 500 43 957 248 957 500 752 957 500 957Z",
+        "width": 1000
+      },
+      "search": [
+        "union"
+      ]
+    },
+    {
+      "uid": "a906335d329d3f9b3057c0fb225a1846",
+      "css": "ic_success",
+      "code": 59414,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M678 378L478 622 365 509 335 539 465 670 483 687 496 670 713 409 678 378ZM500 0C226 0 0 226 0 500S226 1000 500 1000 1000 774 1000 500 774 0 500 0ZM500 957C248 957 44 752 44 500S248 43 500 43 957 248 957 500 752 957 500 957ZM478 622L365 509 335 539 465 670 483 687 496 670 713 409 678 383 478 622ZM678 378L478 622 365 509 335 539 465 670 483 687 496 670 713 409 678 378Z",
+        "width": 1000
+      },
+      "search": [
+        "ic_success"
+      ]
+    },
+    {
+      "uid": "46b12447734923c9bbe6ff76e87433d2",
+      "css": "cherie_arrow",
+      "code": 59392,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M702 312L877 487 877 488 880 491 702 669 688 654 842 500H104V479H839L688 327 702 312Z",
+        "width": 1000
+      },
+      "search": [
+        "cherie_arrow"
+      ]
+    },
+    {
+      "uid": "490fadd5d3de94cdef7bbb8e51a25a9a",
+      "css": "cherie_arrow_back",
+      "code": 59393,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M298 687L123 513 123 512 120 509 298 331 313 346 158 500H896V521H161L313 673 298 687Z",
+        "width": 1000
+      },
+      "search": [
+        "cherie_arrow_back"
+      ]
+    },
+    {
+      "uid": "bbbb4e48fa91abdb971443332950ae13",
+      "css": "cherie_arrow_left",
+      "code": 59394,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M247 491L728 972 750 950 286 486 750 22 728 0 242 486 247 491 247 491Z",
+        "width": 1000
+      },
+      "search": [
+        "cherie_arrow_left"
+      ]
+    },
+    {
+      "uid": "0cef089e5d6de89958c4165b00d544c0",
+      "css": "cherie_arrow_right",
+      "code": 59395,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M753 481L272 0 250 22 714 486 250 950 272 972 758 486 753 481 753 481Z",
+        "width": 1000
+      },
+      "search": [
+        "cherie_arrow_right"
+      ]
+    },
+    {
+      "uid": "b4fcba17afe1897c5c9d1a4904e3ad8e",
+      "css": "cherie_chevron",
+      "code": 59396,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M375 875L750 500 375 125",
+        "width": 1000
+      },
+      "search": [
+        "cherie_chevron"
+      ]
+    },
+    {
+      "uid": "e4684d410009511f2c49ee29fb58ef9e",
+      "css": "cherie_close",
+      "code": 59397,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M479 491L244 256 214 285 450 521 214 756 244 786 479 550 715 786 744 756 509 521 744 285 715 256 479 491Z",
+        "width": 1000
+      },
+      "search": [
+        "cherie_close"
+      ]
+    },
+    {
+      "uid": "5d37aec96bfa753aa9324a64e98b7ef8",
+      "css": "cherie_close-big",
+      "code": 59398,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M520 497L851 829 829 851 498 520 166 851 144 829 475 497 144 166 166 144 498 475 829 144 851 166 520 497Z",
+        "width": 1000
+      },
+      "search": [
+        "cherie_close-big"
+      ]
+    },
+    {
+      "uid": "466e7495b6bc59308a7f43e55af4ae3b",
+      "css": "cherie_plus",
+      "code": 59399,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M500 500V167H458V500H125V542H458V875H500V542H833V500H500Z",
+        "width": 1000
+      },
+      "search": [
+        "cherie_plus"
+      ]
+    },
+    {
+      "uid": "6ef7a064fb2052fc6e9bc067a581d80a",
+      "css": "cherie_search",
+      "code": 59400,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M738 708C796 642 833 554 833 458 833 250 667 83 458 83 250 83 83 250 83 458 83 667 250 833 458 833 554 833 642 796 708 737L929 958 958 929 738 708ZM458 792C275 792 125 642 125 458 125 275 275 125 458 125 642 125 792 275 792 458 792 642 642 792 458 792Z",
+        "width": 1000
+      },
+      "search": [
+        "cherie_search"
+      ]
+    },
+    {
+      "uid": "c20e3909d755c1e5be8ff409df347b08",
+      "css": "cherie-short-arrow-left",
+      "code": 59401,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M384 300L354 271 177 448 148 477 177 506 354 683 384 654 230 500H833V458H226L384 300Z",
+        "width": 1000
+      },
+      "search": [
+        "cherie-short-arrow-left"
+      ]
+    },
+    {
+      "uid": "d33cdcb1c2561c67c40f6fef6f8875ea",
+      "css": "cherie-short-arrow-right",
+      "code": 59402,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M646 271L616 300 774 458H167V500L770 500 616 654 646 683 852 477 852 477 852 477 646 271Z",
+        "width": 1000
+      },
+      "search": [
+        "cherie-short-arrow-right"
+      ]
+    },
+    {
+      "uid": "ee8c88650c04113b33f5dd4769e4c09b",
+      "css": "cherie_arrow_down",
+      "code": 59403,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M103 397L147 353 500 706 853 353 897 397 500 794 103 397Z",
+        "width": 1000
+      },
+      "search": [
+        "cherie_arrow_down"
+      ]
+    },
+    {
+      "uid": "3c081b5b85976daa30e2a85b4ab0175d",
+      "css": "cherie_arrow_up",
+      "code": 59404,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M897 603L853 647 500 294 147 647 103 603 500 206 897 603Z",
+        "width": 1000
+      },
+      "search": [
+        "cherie_arrow_up"
+      ]
+    },
+    {
+      "uid": "9d62dac0f3a3d66dfd3ddcd3c39ab9bd",
+      "css": "minus",
+      "code": 59405,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M938 562L125 562 125 500 938 500V562Z",
+        "width": 1000
+      },
+      "search": [
+        "minus"
+      ]
+    },
+    {
+      "uid": "3c2644252c48ab4d596f857d93d30d32",
+      "css": "dot",
+      "code": 59406,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M110 390Q156 390 188 422T220 500Q220 544 188 577T110 610 32 577 0 500Q0 454 32 422T110 390Z",
+        "width": 220
+      },
+      "search": [
+        "dot"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+/* body_typography */
+
+body, .art-body-font, code, kbd, pre, samp {
+    font-family: Jost;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 1.7em;
+    text-transform: none;
+    text-align: left;
+}
+
+
+
+
+/* body_two_typography */
+
+.art-body-two-font,
+.accordion-product-container tbody {
+    font-family: Jost;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.02em;
+    text-transform: none;
+}
+
+
+
+
+/* body_three_typography */
+
+.art-body-three-font, .art-post-tags a, .woocommerce .woocommerce-breadcrumb, h3#ship-to-different-address {
+    font-family: Jost;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.02em;
+    text-transform: none;
+}
+
+
+
+
+/* body_five_typography */
+.art-body-five-font,
+.woocommerce-privacy-policy-text,
+.woocommerce-checkout #payment div.payment_box {
+    font-family: Jost;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 17px;
+    text-transform: none;
+}
+
+
+
+
+
+/* buttons_typography */
+.elementor-widget-button .elementor-button,
+#pwgc-redeem-button,
+.art-button,
+.woocommerce div.product form.cart .button,
+.woocommerce #respond input#submit,
+.woocommerce #payment #place_order,
+.woocommerce-page #payment #place_order,
+.art-woo-checkout-page .art-checkout-right .woocommerce-checkout-review-order #payment .form-row.place-order #pwgc-redeem-gift-card-form #pwgc-redeem-form #pwgc-redeem-button {
+    font-family: Jost;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+
+
+
+/* blockquote_style */
+.story blockquote,
+.story blockquote code {
+    font-family: EB Garamond;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 45px;
+    color: #000;
+    letter-spacing: 0.02em;
+    text-transform: none;
+}
+
+
+
+
+
+/* header_style */
+
+.art-text-title-style {
+    font-family: EB Garamond;
+    color: #000;
+    letter-spacing: 0.02em;
+    text-transform: none;
+}
+
+
+
+/* header_typography */
+
+a, h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+    text-transform: none;
+    color: #000;
+    letter-spacing: 0.02em;
+}
+
+
+
+
+/* h1_size_typography */
+
+h1, .art-h1, h1.elementor-heading-title {
+    font-family: EB Garamond;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 78px;
+}
+
+
+
+/* h1_size_typography_phone */
+
+@media (max-width: 767px) {
+
+    h1, .art-h1, h1.elementor-heading-title {
+        font-family: EB Garamond;
+        font-weight: 400;
+        font-size: 30px;
+        line-height: 39px;
+    }
+
+}
+
+
+
+/* h2_size_typography */
+
+h2, .art-h2, h2.elementor-heading-title {
+    font-family: EB Garamond;
+    font-weight: 500;
+    font-size: 42px;
+    line-height: 55px;
+}
+
+
+
+/* h2_size_typography_phone */
+
+@media (max-width: 767px) {
+
+    h2, .art-h2, h2.elementor-heading-title {
+        font-family: EB Garamond;
+        font-weight: 500;
+        font-size: 28px;
+        line-height: 37px;
+    }
+
+}
+
+
+
+/* h4_size_typography */
+
+h4,
+.art-h4,
+h4.elementor-heading-title {
+    font-family: Jost;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 38px;
+    color: #000;
+    letter-spacing: 0.02em;
+}
+
+
+
+/* h5_size_typography */
+
+h5,
+.art-h5,
+h5.elementor-heading-title,
+.comment-respond .comment-reply-title,
+.art-product-layout-classic .related.products h2 {
+    font-family: Jost;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 32px;
+    color: #000;
+    letter-spacing: 0.02em;
+}
+
+
+
+
+/* h5_size_typography_phone */
+
+@media (max-width: 767px) {
+
+    h5,
+    .art-h5,
+    h5.elementor-heading-title,
+    .comment-respond .comment-reply-title,
+    .art-product-layout-classic .related.products h2 {
+        font-family: Jost;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 29px;
+        color: #000;
+        letter-spacing: 0.02em;
+    }
+}
+
+
+
+
+/* h6_size_typography */
+
+h6,
+.art-h6,
+h6.elementor-heading-title {
+    font-family: Jost;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 29px;
+    color: #000;
+    letter-spacing: 0.02em;
+}
+
+
+
+/* h6_size_typography_phone */
+
+@media (max-width: 767px) {
+
+    h6,
+    .art-h6,
+    h6.elementor-heading-title {
+        font-family: Jost;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 23px;
+        color: #000;
+        letter-spacing: 0.02em;
+    }
+}
+
+
+
+
+/* h7_size_typography */
+
+.art-heading-seven,
+.woocommerce #reviews #comments h2,
+.woocommerce-loop-product__title {
+    font-family: Jost;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 23px;
+    color: #000;
+    letter-spacing: 0.02em;
+}
+
+
+
+/* h8_size_typography */
+
+.art-heading-eight,
+footer.art-main-footer ul li a,
+footer.art-main-footer ul li {
+    font-family: Jost;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000;
+    letter-spacing: 0.02em;
+}
+
+
+
+/* h9_size_typography */
+
+.art-h9 {
+    font-family: Jost;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 19px;
+    color: #000;
+    letter-spacing: 0.1em;
+}

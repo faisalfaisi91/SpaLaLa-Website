@@ -1,0 +1,1424 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: cherie-core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-25 22:07+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-KeywordsList: __;_n:1,2;_x;esc_html__;esc_html_e;esc_attr__;"
+"esc_attr_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: assets\n"
+"X-Poedit-SearchPath-2: blocks\n"
+"X-Poedit-SearchPath-3: wordpress-widgets\n"
+"X-Poedit-SearchPath-4: cherie-core.php\n"
+
+#: assets/functions.php:34 assets/functions.php:164
+msgid "Your Bag"
+msgstr ""
+
+#: assets/functions.php:35
+msgid "items"
+msgstr ""
+
+#: assets/functions.php:66
+msgid "Product"
+msgstr ""
+
+#: assets/functions.php:81
+msgid "Available on backorder"
+msgstr ""
+
+#: assets/functions.php:86
+msgid "Price"
+msgstr ""
+
+#: assets/functions.php:92 assets/functions.php:95
+msgid "Quantity"
+msgstr ""
+
+#: assets/functions.php:108
+msgid "Remove this item"
+msgstr ""
+
+#: assets/functions.php:140
+msgid "Subtotal"
+msgstr ""
+
+#: assets/functions.php:146
+msgid "View Bag"
+msgstr ""
+
+#: assets/functions.php:149
+msgid "Checkout"
+msgstr ""
+
+#: assets/functions.php:179
+msgid "Your Bag is Empty"
+msgstr ""
+
+#: assets/functions.php:286
+msgid "Theme Options Media"
+msgstr ""
+
+#: blocks/elementor/accordion-tabs.php:13
+msgid "Accordion Tabs"
+msgstr ""
+
+#: blocks/elementor/accordion-tabs.php:29 blocks/elementor/mention.php:31
+#: blocks/elementor/my-map.php:31 blocks/elementor/service-menu-two.php:30
+#: blocks/elementor/service-menu.php:29
+msgid "Heading"
+msgstr ""
+
+#: blocks/elementor/accordion-tabs.php:38 blocks/elementor/accordion.php:39
+#: blocks/elementor/awards.php:54 blocks/elementor/contact-info-tabs.php:41
+#: blocks/elementor/contact-info.php:41
+#: blocks/elementor/follow-subscribe.php:59
+#: blocks/elementor/full-page-services.php:55
+#: blocks/elementor/half-slider-left.php:58
+#: blocks/elementor/half-slider-right.php:184
+#: blocks/elementor/hero-header.php:63 blocks/elementor/mention.php:40
+#: blocks/elementor/my-map-contacts.php:54
+#: blocks/elementor/service-menu-two.php:39
+#: blocks/elementor/service-menu.php:38 blocks/elementor/slider-info.php:44
+#: blocks/elementor/team-slider.php:48 blocks/elementor/team.php:48
+#: blocks/elementor/test.php:42 blocks/elementor/testimonials-images.php:54
+#: blocks/elementor/testimonials.php:54
+msgid "List"
+msgstr ""
+
+#: blocks/elementor/accordion-tabs.php:44
+msgid "The title"
+msgstr ""
+
+#: blocks/elementor/accordion-tabs.php:54
+msgid "Question #1"
+msgstr ""
+
+#: blocks/elementor/accordion-tabs.php:60
+msgid "Answer for the question 1"
+msgstr ""
+
+#: blocks/elementor/accordion-tabs.php:62
+#: blocks/elementor/accordion-tabs.php:79
+#: blocks/elementor/accordion-tabs.php:96
+#: blocks/elementor/accordion-tabs.php:113
+#: blocks/elementor/accordion-tabs.php:130
+#: blocks/elementor/accordion-tabs.php:147
+#: blocks/elementor/accordion-tabs.php:164
+#: blocks/elementor/contact-info-tabs.php:71
+#: blocks/elementor/contact-info-tabs.php:94
+#: blocks/elementor/contact-info-tabs.php:117
+#: blocks/elementor/contact-info.php:60
+#: blocks/elementor/full-page-services.php:107
+#: blocks/elementor/full-page-services.php:130
+#: blocks/elementor/full-page-services.php:153
+#: blocks/elementor/full-page-services.php:176
+#: blocks/elementor/full-page-services.php:199
+#: blocks/elementor/full-page-services.php:222
+#: blocks/elementor/full-page-services.php:258
+#: blocks/elementor/full-page-services.php:281
+#: blocks/elementor/full-page-services.php:304
+#: blocks/elementor/full-page-services.php:327
+#: blocks/elementor/full-page-services.php:350
+#: blocks/elementor/full-page-services.php:373 blocks/elementor/mention.php:55
+#: blocks/elementor/my-map-contacts.php:78
+#: blocks/elementor/my-map-contacts.php:95
+#: blocks/elementor/my-map-contacts.php:112
+#: blocks/elementor/service-menu-two.php:68
+#: blocks/elementor/service-menu-two.php:91
+#: blocks/elementor/service-menu-two.php:114
+#: blocks/elementor/service-menu-two.php:137
+#: blocks/elementor/service-menu-two.php:160
+#: blocks/elementor/service-menu-two.php:183
+#: blocks/elementor/service-menu.php:71 blocks/elementor/test.php:94
+#: blocks/elementor/test.php:117 blocks/elementor/test.php:140
+#: blocks/elementor/test.php:163 blocks/elementor/test.php:186
+#: blocks/elementor/test.php:209 blocks/elementor/test.php:245
+#: blocks/elementor/test.php:268 blocks/elementor/test.php:291
+#: blocks/elementor/test.php:314 blocks/elementor/test.php:337
+#: blocks/elementor/test.php:360 blocks/elementor/testimonials-images.php:69
+#: blocks/elementor/testimonials.php:61
+msgid "List Content"
+msgstr ""
+
+#: blocks/elementor/accordion-tabs.php:71
+msgid "Question #2"
+msgstr ""
+
+#: blocks/elementor/accordion-tabs.php:77
+msgid "Answer for the question 2"
+msgstr ""
+
+#: blocks/elementor/accordion-tabs.php:88
+msgid "Question #3"
+msgstr ""
+
+#: blocks/elementor/accordion-tabs.php:94
+msgid "Answer for the question 3"
+msgstr ""
+
+#: blocks/elementor/accordion-tabs.php:105
+msgid "Question #4"
+msgstr ""
+
+#: blocks/elementor/accordion-tabs.php:111
+msgid "Answer for the question 4"
+msgstr ""
+
+#: blocks/elementor/accordion-tabs.php:122
+msgid "Question #5"
+msgstr ""
+
+#: blocks/elementor/accordion-tabs.php:128
+msgid "Answer for the question 5"
+msgstr ""
+
+#: blocks/elementor/accordion-tabs.php:139
+msgid "Question #6"
+msgstr ""
+
+#: blocks/elementor/accordion-tabs.php:145
+msgid "Answer for the question 6"
+msgstr ""
+
+#: blocks/elementor/accordion-tabs.php:156
+msgid "Question #7"
+msgstr ""
+
+#: blocks/elementor/accordion-tabs.php:162
+msgid "Answer for the question 7"
+msgstr ""
+
+#: blocks/elementor/accordion.php:13
+msgid "Services Accordion"
+msgstr ""
+
+#: blocks/elementor/accordion.php:31 blocks/elementor/full-page-services.php:45
+#: blocks/elementor/test.php:32
+msgid "Services"
+msgstr ""
+
+#: blocks/elementor/accordion.php:44
+msgid "Service name"
+msgstr ""
+
+#: blocks/elementor/accordion.php:46
+msgid "Your service"
+msgstr ""
+
+#: blocks/elementor/accordion.php:51
+msgid "Service price"
+msgstr ""
+
+#: blocks/elementor/accordion.php:53
+msgid "$49"
+msgstr ""
+
+#: blocks/elementor/accordion.php:58
+msgid "Service description"
+msgstr ""
+
+#: blocks/elementor/accordion.php:60
+msgid "Description..."
+msgstr ""
+
+#: blocks/elementor/awards.php:13
+msgid "Awards"
+msgstr ""
+
+#: blocks/elementor/awards.php:35 blocks/elementor/join-team.php:48
+msgid "Items"
+msgstr ""
+
+#: blocks/elementor/awards.php:44 blocks/elementor/awards.php:59
+#: blocks/elementor/dark-button.php:146 blocks/elementor/dark-button.php:184
+#: blocks/elementor/follow-subscribe.php:39
+#: blocks/elementor/follow-subscribe.php:102
+#: blocks/elementor/full-page-services.php:516
+#: blocks/elementor/full-page-services.php:554
+#: blocks/elementor/half-slider-left.php:90
+#: blocks/elementor/half-slider-right.php:150
+#: blocks/elementor/hero-header-two.php:52
+#: blocks/elementor/hero-header-two.php:173
+#: blocks/elementor/hero-header-two.php:211 blocks/elementor/hero-header.php:52
+#: blocks/elementor/hero-header.php:68 blocks/elementor/hero-header.php:196
+#: blocks/elementor/hero-header.php:234 blocks/elementor/info-block.php:82
+#: blocks/elementor/join-team.php:56 blocks/elementor/join-team.php:176
+#: blocks/elementor/join-team.php:214 blocks/elementor/light-button.php:146
+#: blocks/elementor/light-button.php:184
+#: blocks/elementor/my-map-contacts.php:234
+#: blocks/elementor/my-map-contacts.php:272
+#: blocks/elementor/ordinary-page-header.php:39
+#: blocks/elementor/team-partner.php:60 blocks/elementor/team-partner.php:201
+#: blocks/elementor/testimonials-images.php:44
+#: blocks/elementor/testimonials.php:44
+msgid "Title"
+msgstr ""
+
+#: blocks/elementor/awards.php:46 blocks/elementor/testimonials-images.php:46
+#: blocks/elementor/testimonials.php:46
+msgid "Words from our happy clients"
+msgstr ""
+
+#: blocks/elementor/awards.php:47 blocks/elementor/dark-button.php:54
+#: blocks/elementor/follow-subscribe.php:42
+#: blocks/elementor/follow-subscribe.php:105
+#: blocks/elementor/full-page-services.php:424
+#: blocks/elementor/half-slider-left.php:93
+#: blocks/elementor/half-slider-left.php:133
+#: blocks/elementor/half-slider-right.php:54
+#: blocks/elementor/half-slider-right.php:153
+#: blocks/elementor/hero-header-two.php:55
+#: blocks/elementor/hero-header-two.php:81 blocks/elementor/hero-header.php:55
+#: blocks/elementor/hero-header.php:104 blocks/elementor/info-block.php:85
+#: blocks/elementor/info-block.php:121 blocks/elementor/join-team.php:58
+#: blocks/elementor/join-team.php:84 blocks/elementor/light-button.php:54
+#: blocks/elementor/mention.php:62 blocks/elementor/my-map-contacts.php:142
+#: blocks/elementor/team-partner.php:63 blocks/elementor/team-partner.php:98
+#: blocks/elementor/team-partner.php:204 blocks/elementor/team-partner.php:239
+#: blocks/elementor/testimonials-images.php:47
+#: blocks/elementor/testimonials.php:47
+msgid "Type your title here"
+msgstr ""
+
+#: blocks/elementor/awards.php:65 blocks/elementor/hero-header.php:74
+msgid "Text"
+msgstr ""
+
+#: blocks/elementor/blog-slider.php:14
+msgid "Posts Slider"
+msgstr ""
+
+#: blocks/elementor/blog-slider.php:65 blocks/elementor/blog.php:14
+#: blocks/elementor/blog.php:65 blocks/elementor/career-archive.php:51
+#: blocks/elementor/courses-archive.php:51
+msgid "Posts"
+msgstr ""
+
+#: blocks/elementor/blog-slider.php:74 blocks/elementor/blog.php:74
+msgid "Show Categories"
+msgstr ""
+
+#: blocks/elementor/blog-slider.php:79 blocks/elementor/blog.php:79
+msgid "Leave empty to show all categories."
+msgstr ""
+
+#: blocks/elementor/blog-slider.php:87 blocks/elementor/blog.php:87
+#: blocks/elementor/career-archive.php:59
+#: blocks/elementor/courses-archive.php:59
+#: blocks/elementor/woo-products-slider.php:130
+#: blocks/elementor/woo-products.php:130
+msgid "Order"
+msgstr ""
+
+#: blocks/elementor/blog-slider.php:99 blocks/elementor/blog.php:99
+#: blocks/elementor/career-archive.php:70
+#: blocks/elementor/courses-archive.php:70
+msgid "Number of Posts"
+msgstr ""
+
+#: blocks/elementor/blog-slider.php:103 blocks/elementor/blog.php:103
+#: blocks/elementor/career-archive.php:73
+#: blocks/elementor/courses-archive.php:73
+#: blocks/elementor/woo-products-slider.php:146
+#: blocks/elementor/woo-products.php:146
+msgid "Specify the Number of Posts."
+msgstr ""
+
+#: blocks/elementor/career-archive.php:14
+msgid "Career posts"
+msgstr ""
+
+#: blocks/elementor/contact-info-tabs.php:13
+msgid "Contact Info Tabs"
+msgstr ""
+
+#: blocks/elementor/contact-info-tabs.php:33
+#: blocks/elementor/contact-info.php:33 blocks/elementor/my-map-contacts.php:46
+msgid "Contact"
+msgstr ""
+
+#: blocks/elementor/contact-info-tabs.php:47
+#: blocks/elementor/my-map-contacts.php:60
+msgid "City"
+msgstr ""
+
+#: blocks/elementor/contact-info-tabs.php:57
+#: blocks/elementor/contact-info-tabs.php:80
+#: blocks/elementor/contact-info-tabs.php:103
+#: blocks/elementor/contact-info.php:46
+#: blocks/elementor/full-page-services.php:60
+#: blocks/elementor/service-menu.php:57 blocks/elementor/team-partner.php:52
+#: blocks/elementor/team-partner.php:193 blocks/elementor/test.php:47
+msgid "Custom Icons"
+msgstr ""
+
+#: blocks/elementor/contact-info-tabs.php:63
+#: blocks/elementor/contact-info-tabs.php:86
+#: blocks/elementor/contact-info-tabs.php:109
+#: blocks/elementor/contact-info.php:52
+#: blocks/elementor/full-page-services.php:66
+#: blocks/elementor/my-map-contacts.php:70
+#: blocks/elementor/my-map-contacts.php:87
+#: blocks/elementor/my-map-contacts.php:104
+#: blocks/elementor/service-menu.php:63 blocks/elementor/test.php:53
+msgid "Service title"
+msgstr ""
+
+#: blocks/elementor/contact-info-tabs.php:69
+#: blocks/elementor/contact-info-tabs.php:92
+#: blocks/elementor/contact-info-tabs.php:115
+#: blocks/elementor/contact-info.php:58 blocks/elementor/mention.php:53
+#: blocks/elementor/my-map-contacts.php:76
+#: blocks/elementor/my-map-contacts.php:93
+#: blocks/elementor/my-map-contacts.php:110
+#: blocks/elementor/service-menu.php:69
+#: blocks/elementor/testimonials-images.php:67
+#: blocks/elementor/testimonials.php:59
+msgid "Content"
+msgstr ""
+
+#: blocks/elementor/contact-info-tabs.php:134
+#: blocks/elementor/info-block.php:209 blocks/elementor/my-map.php:59
+#: blocks/elementor/service-menu-two.php:198
+#: blocks/elementor/testimonials.php:85
+msgid "Style"
+msgstr ""
+
+#: blocks/elementor/contact-info-tabs.php:142 blocks/elementor/mention.php:120
+#: blocks/elementor/service-menu-two.php:206
+msgid "Tabs Class"
+msgstr ""
+
+#: blocks/elementor/contact-info-tabs.php:152
+#: blocks/elementor/half-slider-left.php:247
+#: blocks/elementor/half-slider-right.php:237
+#: blocks/elementor/info-block.php:263 blocks/elementor/testimonials.php:103
+msgid "Text Class"
+msgstr ""
+
+#: blocks/elementor/contact-info.php:13
+msgid "Contact Info"
+msgstr ""
+
+#: blocks/elementor/courses-archive.php:14
+msgid "Courses posts"
+msgstr ""
+
+#: blocks/elementor/dark-button.php:13
+msgid "Dark Button"
+msgstr ""
+
+#: blocks/elementor/dark-button.php:43 blocks/elementor/hero-header.php:340
+#: blocks/elementor/light-button.php:43
+#: blocks/elementor/ordinary-page-header.php:31
+msgid "Settings"
+msgstr ""
+
+#: blocks/elementor/dark-button.php:51
+#: blocks/elementor/full-page-services.php:421
+#: blocks/elementor/half-slider-left.php:130
+#: blocks/elementor/half-slider-right.php:51
+#: blocks/elementor/hero-header-two.php:78 blocks/elementor/hero-header.php:101
+#: blocks/elementor/info-block.php:118 blocks/elementor/join-team.php:81
+#: blocks/elementor/light-button.php:51
+#: blocks/elementor/my-map-contacts.php:139
+#: blocks/elementor/team-partner.php:95 blocks/elementor/team-partner.php:236
+msgid "Button text"
+msgstr ""
+
+#: blocks/elementor/dark-button.php:53
+#: blocks/elementor/half-slider-left.php:132
+#: blocks/elementor/half-slider-right.php:53
+#: blocks/elementor/info-block.php:120 blocks/elementor/join-team.php:83
+#: blocks/elementor/light-button.php:53
+#: blocks/elementor/my-map-contacts.php:141
+#: blocks/elementor/team-partner.php:97
+msgid "Learn More"
+msgstr ""
+
+#: blocks/elementor/dark-button.php:63
+#: blocks/elementor/full-page-services.php:433
+#: blocks/elementor/hero-header-two.php:90 blocks/elementor/hero-header.php:113
+#: blocks/elementor/join-team.php:93 blocks/elementor/light-button.php:63
+#: blocks/elementor/my-map-contacts.php:151
+msgid "Boxzilla popap"
+msgstr ""
+
+#: blocks/elementor/dark-button.php:72
+#: blocks/elementor/full-page-services.php:442
+#: blocks/elementor/hero-header-two.php:99 blocks/elementor/hero-header.php:122
+#: blocks/elementor/join-team.php:102 blocks/elementor/light-button.php:72
+#: blocks/elementor/my-map-contacts.php:160
+msgid "Boxzilla ID"
+msgstr ""
+
+#: blocks/elementor/dark-button.php:83
+#: blocks/elementor/full-page-services.php:453
+#: blocks/elementor/hero-header-two.php:110
+#: blocks/elementor/hero-header.php:133 blocks/elementor/join-team.php:113
+#: blocks/elementor/light-button.php:83
+#: blocks/elementor/my-map-contacts.php:171
+msgid "Booked plugin"
+msgstr ""
+
+#: blocks/elementor/dark-button.php:92 blocks/elementor/dark-button.php:164
+#: blocks/elementor/dark-button.php:202
+#: blocks/elementor/follow-subscribe.php:122
+#: blocks/elementor/full-page-services.php:462
+#: blocks/elementor/full-page-services.php:534
+#: blocks/elementor/full-page-services.php:572
+#: blocks/elementor/hero-header-two.php:119
+#: blocks/elementor/hero-header-two.php:191
+#: blocks/elementor/hero-header-two.php:229
+#: blocks/elementor/hero-header.php:142 blocks/elementor/hero-header.php:214
+#: blocks/elementor/hero-header.php:252 blocks/elementor/join-team.php:122
+#: blocks/elementor/join-team.php:194 blocks/elementor/join-team.php:232
+#: blocks/elementor/light-button.php:92 blocks/elementor/light-button.php:164
+#: blocks/elementor/light-button.php:202
+#: blocks/elementor/my-map-contacts.php:180
+#: blocks/elementor/my-map-contacts.php:252
+#: blocks/elementor/my-map-contacts.php:290
+#: blocks/elementor/wpcf7-widget.php:13 blocks/elementor/wpcf7-widget.php:31
+msgid "Shortcode"
+msgstr ""
+
+#: blocks/elementor/dark-button.php:94
+#: blocks/elementor/full-page-services.php:464
+#: blocks/elementor/hero-header-two.php:121
+#: blocks/elementor/hero-header.php:144 blocks/elementor/join-team.php:124
+#: blocks/elementor/light-button.php:94
+#: blocks/elementor/my-map-contacts.php:182
+msgid "Leave empty if you are not going to use Booked plugin"
+msgstr ""
+
+#: blocks/elementor/dark-button.php:103
+#: blocks/elementor/full-page-services.php:473
+#: blocks/elementor/half-slider-left.php:168
+#: blocks/elementor/half-slider-right.php:89
+#: blocks/elementor/hero-header-two.php:130
+#: blocks/elementor/hero-header.php:153 blocks/elementor/info-block.php:156
+#: blocks/elementor/join-team.php:133 blocks/elementor/light-button.php:103
+#: blocks/elementor/my-map-contacts.php:191
+#: blocks/elementor/team-partner.php:133 blocks/elementor/team-partner.php:274
+msgid "Page link"
+msgstr ""
+
+#: blocks/elementor/dark-button.php:113
+#: blocks/elementor/full-page-services.php:483
+#: blocks/elementor/half-slider-left.php:178
+#: blocks/elementor/half-slider-right.php:99
+#: blocks/elementor/hero-header-two.php:140
+#: blocks/elementor/hero-header.php:163 blocks/elementor/hero-header.php:349
+#: blocks/elementor/info-block.php:166 blocks/elementor/join-team.php:143
+#: blocks/elementor/light-button.php:113
+#: blocks/elementor/my-map-contacts.php:201
+#: blocks/elementor/team-partner.php:143 blocks/elementor/team-partner.php:284
+msgid "Page"
+msgstr ""
+
+#: blocks/elementor/dark-button.php:117
+#: blocks/elementor/full-page-services.php:487
+#: blocks/elementor/half-slider-left.php:182
+#: blocks/elementor/half-slider-right.php:103
+#: blocks/elementor/hero-header-two.php:144
+#: blocks/elementor/hero-header.php:167 blocks/elementor/info-block.php:170
+#: blocks/elementor/join-team.php:147 blocks/elementor/light-button.php:117
+#: blocks/elementor/my-map-contacts.php:205
+#: blocks/elementor/team-partner.php:147 blocks/elementor/team-partner.php:288
+msgid "Leave empty if you are going to use your custom link"
+msgstr ""
+
+#: blocks/elementor/dark-button.php:126
+#: blocks/elementor/full-page-services.php:496
+#: blocks/elementor/hero-header-two.php:153
+#: blocks/elementor/hero-header.php:176 blocks/elementor/join-team.php:156
+#: blocks/elementor/light-button.php:126
+#: blocks/elementor/my-map-contacts.php:214
+msgid "Default popap"
+msgstr ""
+
+#: blocks/elementor/dark-button.php:135
+#: blocks/elementor/full-page-services.php:392
+#: blocks/elementor/full-page-services.php:505
+#: blocks/elementor/half-slider-left.php:63
+#: blocks/elementor/half-slider-right.php:189
+#: blocks/elementor/hero-header-two.php:162
+#: blocks/elementor/hero-header-two.php:312
+#: blocks/elementor/hero-header.php:185 blocks/elementor/hero-header.php:425
+#: blocks/elementor/info-block.php:57 blocks/elementor/join-team.php:165
+#: blocks/elementor/join-team.php:312 blocks/elementor/light-button.php:135
+#: blocks/elementor/my-map-contacts.php:223 blocks/elementor/my-map.php:40
+#: blocks/elementor/ordinary-page-header.php:75
+#: blocks/elementor/parallax-image.php:44 blocks/elementor/slider-info.php:49
+#: blocks/elementor/test.php:378 blocks/elementor/testimonials-images.php:59
+msgid "Choose Image"
+msgstr ""
+
+#: blocks/elementor/dark-button.php:155 blocks/elementor/dark-button.php:193
+#: blocks/elementor/follow-subscribe.php:49
+#: blocks/elementor/follow-subscribe.php:112
+#: blocks/elementor/full-page-services.php:72
+#: blocks/elementor/full-page-services.php:525
+#: blocks/elementor/full-page-services.php:563
+#: blocks/elementor/half-slider-left.php:100
+#: blocks/elementor/half-slider-right.php:160
+#: blocks/elementor/hero-header-two.php:182
+#: blocks/elementor/hero-header-two.php:220
+#: blocks/elementor/hero-header.php:205 blocks/elementor/hero-header.php:243
+#: blocks/elementor/info-block.php:92 blocks/elementor/join-team.php:185
+#: blocks/elementor/join-team.php:223 blocks/elementor/light-button.php:155
+#: blocks/elementor/light-button.php:193
+#: blocks/elementor/my-map-contacts.php:243
+#: blocks/elementor/my-map-contacts.php:281
+#: blocks/elementor/ordinary-page-header.php:49
+#: blocks/elementor/team-partner.php:70 blocks/elementor/team-partner.php:211
+#: blocks/elementor/team-slider.php:75 blocks/elementor/team-slider.php:77
+#: blocks/elementor/team.php:75 blocks/elementor/team.php:77
+#: blocks/elementor/test.php:59
+msgid "Description"
+msgstr ""
+
+#: blocks/elementor/dark-button.php:175
+#: blocks/elementor/full-page-services.php:545
+#: blocks/elementor/hero-header-two.php:202
+#: blocks/elementor/hero-header.php:225 blocks/elementor/join-team.php:205
+#: blocks/elementor/light-button.php:175
+#: blocks/elementor/my-map-contacts.php:263
+msgid "Default popap #2"
+msgstr ""
+
+#: blocks/elementor/dark-button.php:213
+#: blocks/elementor/full-page-services.php:583
+#: blocks/elementor/half-slider-left.php:142
+#: blocks/elementor/half-slider-right.php:63
+#: blocks/elementor/hero-header-two.php:240
+#: blocks/elementor/hero-header.php:263 blocks/elementor/hero-header.php:360
+#: blocks/elementor/hero-header.php:369 blocks/elementor/info-block.php:130
+#: blocks/elementor/join-team.php:243 blocks/elementor/light-button.php:213
+#: blocks/elementor/my-map-contacts.php:301
+#: blocks/elementor/team-partner.php:107 blocks/elementor/team-partner.php:248
+msgid "Custom link"
+msgstr ""
+
+#: blocks/elementor/dark-button.php:222
+#: blocks/elementor/follow-subscribe.php:70
+#: blocks/elementor/full-page-services.php:592
+#: blocks/elementor/half-slider-left.php:151
+#: blocks/elementor/half-slider-right.php:72
+#: blocks/elementor/hero-header-two.php:249
+#: blocks/elementor/hero-header.php:272 blocks/elementor/info-block.php:139
+#: blocks/elementor/join-team.php:252 blocks/elementor/light-button.php:222
+#: blocks/elementor/mention.php:67 blocks/elementor/my-map-contacts.php:310
+#: blocks/elementor/team-partner.php:116 blocks/elementor/team-partner.php:257
+msgid "Link"
+msgstr ""
+
+#: blocks/elementor/dark-button.php:224
+#: blocks/elementor/follow-subscribe.php:72
+#: blocks/elementor/full-page-services.php:594
+#: blocks/elementor/half-slider-left.php:153
+#: blocks/elementor/half-slider-right.php:74
+#: blocks/elementor/hero-header-two.php:251
+#: blocks/elementor/hero-header.php:274 blocks/elementor/hero-header.php:371
+#: blocks/elementor/info-block.php:141 blocks/elementor/join-team.php:254
+#: blocks/elementor/light-button.php:224 blocks/elementor/mention.php:69
+#: blocks/elementor/my-map-contacts.php:312
+#: blocks/elementor/team-partner.php:118 blocks/elementor/team-partner.php:259
+msgid "https://your-link.com"
+msgstr ""
+
+#: blocks/elementor/dark-button.php:239 blocks/elementor/light-button.php:239
+msgid "Gift Cart"
+msgstr ""
+
+#: blocks/elementor/dark-button.php:248 blocks/elementor/light-button.php:248
+msgid "Gift Cart Title"
+msgstr ""
+
+#: blocks/elementor/dark-button.php:259
+#: blocks/elementor/full-page-services.php:609
+#: blocks/elementor/half-slider-left.php:191
+#: blocks/elementor/half-slider-right.php:112
+#: blocks/elementor/hero-header-two.php:266
+#: blocks/elementor/hero-header.php:289 blocks/elementor/hero-header.php:386
+#: blocks/elementor/info-block.php:179 blocks/elementor/join-team.php:269
+#: blocks/elementor/light-button.php:259
+#: blocks/elementor/my-map-contacts.php:327
+#: blocks/elementor/team-partner.php:156 blocks/elementor/team-partner.php:297
+msgid "Usage"
+msgstr ""
+
+#: blocks/elementor/dark-button.php:268
+#: blocks/elementor/full-page-services.php:618
+#: blocks/elementor/half-slider-left.php:200
+#: blocks/elementor/half-slider-right.php:121
+#: blocks/elementor/hero-header-two.php:275
+#: blocks/elementor/hero-header.php:298 blocks/elementor/hero-header.php:395
+#: blocks/elementor/info-block.php:188 blocks/elementor/join-team.php:278
+#: blocks/elementor/light-button.php:268
+#: blocks/elementor/my-map-contacts.php:336
+#: blocks/elementor/team-partner.php:165 blocks/elementor/team-partner.php:306
+msgid "What are you going to use?"
+msgstr ""
+
+#: blocks/elementor/dark-button.php:292
+#: blocks/elementor/full-page-services.php:644
+#: blocks/elementor/light-button.php:294
+#: blocks/elementor/my-map-contacts.php:363
+msgid "settings"
+msgstr ""
+
+#: blocks/elementor/dark-button.php:301
+#: blocks/elementor/full-page-services.php:653
+#: blocks/elementor/join-team.php:338 blocks/elementor/light-button.php:303
+#: blocks/elementor/my-map-contacts.php:372
+#: blocks/elementor/ordinary-page-header.php:86
+#: blocks/elementor/team-partner.php:334 blocks/elementor/team-partner.php:387
+msgid "Alignment"
+msgstr ""
+
+#: blocks/elementor/dark-button.php:305
+#: blocks/elementor/full-page-services.php:657
+#: blocks/elementor/info-block.php:219 blocks/elementor/join-team.php:342
+#: blocks/elementor/light-button.php:307
+#: blocks/elementor/my-map-contacts.php:376 blocks/elementor/my-map.php:69
+#: blocks/elementor/ordinary-page-header.php:90
+#: blocks/elementor/team-partner.php:338 blocks/elementor/team-partner.php:391
+msgid "Left"
+msgstr ""
+
+#: blocks/elementor/dark-button.php:309
+#: blocks/elementor/full-page-services.php:661
+#: blocks/elementor/join-team.php:346 blocks/elementor/light-button.php:311
+#: blocks/elementor/my-map-contacts.php:380
+#: blocks/elementor/ordinary-page-header.php:94
+#: blocks/elementor/team-partner.php:342 blocks/elementor/team-partner.php:395
+msgid "Center"
+msgstr ""
+
+#: blocks/elementor/dark-button.php:313
+#: blocks/elementor/full-page-services.php:665
+#: blocks/elementor/info-block.php:220 blocks/elementor/join-team.php:350
+#: blocks/elementor/light-button.php:315
+#: blocks/elementor/my-map-contacts.php:384 blocks/elementor/my-map.php:70
+#: blocks/elementor/ordinary-page-header.php:98
+#: blocks/elementor/team-partner.php:346 blocks/elementor/team-partner.php:399
+msgid "Right"
+msgstr ""
+
+#: blocks/elementor/follow-subscribe.php:13
+msgid "Follow and Subscribe"
+msgstr ""
+
+#: blocks/elementor/follow-subscribe.php:31
+#: blocks/elementor/follow-subscribe.php:41
+#: blocks/elementor/hero-header-two.php:44 blocks/elementor/team-partner.php:62
+msgid "Follow Us"
+msgstr ""
+
+#: blocks/elementor/follow-subscribe.php:51
+#: blocks/elementor/team-partner.php:72
+msgid "Don’t miss promotions, follow us for the latest news"
+msgstr ""
+
+#: blocks/elementor/follow-subscribe.php:52
+#: blocks/elementor/follow-subscribe.php:115
+#: blocks/elementor/half-slider-left.php:103
+#: blocks/elementor/half-slider-right.php:163
+#: blocks/elementor/info-block.php:95 blocks/elementor/team-partner.php:73
+#: blocks/elementor/team-partner.php:214
+msgid "Type your description here"
+msgstr ""
+
+#: blocks/elementor/follow-subscribe.php:64
+msgid "Icon"
+msgstr ""
+
+#: blocks/elementor/follow-subscribe.php:94
+msgid "Subscribe"
+msgstr ""
+
+#: blocks/elementor/follow-subscribe.php:104
+#: blocks/elementor/team-partner.php:203
+msgid "We don’t keep our beauty secrets"
+msgstr ""
+
+#: blocks/elementor/follow-subscribe.php:114
+#: blocks/elementor/team-partner.php:213
+msgid "Subscribe now and thank us later"
+msgstr ""
+
+#: blocks/elementor/follow-subscribe.php:125
+#: blocks/elementor/wpcf7-widget.php:42
+msgid "Type your shortcode here"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:13
+msgid "Full Page Services"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:83 blocks/elementor/test.php:70
+msgid "Service subtitle #1"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:93
+#: blocks/elementor/service-menu-two.php:54 blocks/elementor/test.php:80
+msgid "Service title #1"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:99
+#: blocks/elementor/service-menu-two.php:60 blocks/elementor/test.php:86
+msgid "Service price #1"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:105
+#: blocks/elementor/service-menu-two.php:66 blocks/elementor/test.php:92
+msgid "Content #1"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:116
+#: blocks/elementor/service-menu-two.php:77 blocks/elementor/test.php:103
+msgid "Service title #2"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:122
+#: blocks/elementor/service-menu-two.php:83 blocks/elementor/test.php:109
+msgid "Service price #2"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:128
+#: blocks/elementor/service-menu-two.php:89 blocks/elementor/test.php:115
+msgid "Content #2"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:139
+#: blocks/elementor/service-menu-two.php:100 blocks/elementor/test.php:126
+msgid "Service title #3"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:145
+#: blocks/elementor/service-menu-two.php:106 blocks/elementor/test.php:132
+msgid "Service price #3"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:151
+#: blocks/elementor/service-menu-two.php:112 blocks/elementor/test.php:138
+msgid "Content #3"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:162
+#: blocks/elementor/service-menu-two.php:123 blocks/elementor/test.php:149
+msgid "Service title #4"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:168
+#: blocks/elementor/service-menu-two.php:129 blocks/elementor/test.php:155
+msgid "Service price #4"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:174
+#: blocks/elementor/service-menu-two.php:135 blocks/elementor/test.php:161
+msgid "Content #4"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:185
+#: blocks/elementor/service-menu-two.php:146 blocks/elementor/test.php:172
+msgid "Service title #5"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:191
+#: blocks/elementor/service-menu-two.php:152 blocks/elementor/test.php:178
+msgid "Service price #5"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:197
+#: blocks/elementor/service-menu-two.php:158 blocks/elementor/test.php:184
+msgid "Content #5"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:208
+#: blocks/elementor/service-menu-two.php:169 blocks/elementor/test.php:195
+msgid "Service title #6"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:214
+#: blocks/elementor/service-menu-two.php:175 blocks/elementor/test.php:201
+msgid "Service price #6"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:220
+#: blocks/elementor/service-menu-two.php:181 blocks/elementor/test.php:207
+msgid "Content #6"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:232 blocks/elementor/test.php:219
+msgid "Service subtitle #2"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:244 blocks/elementor/test.php:231
+msgid "Service title #7"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:250 blocks/elementor/test.php:237
+msgid "Service price #7"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:256 blocks/elementor/test.php:243
+msgid "Content #7"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:267 blocks/elementor/test.php:254
+msgid "Service title #8"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:273 blocks/elementor/test.php:260
+msgid "Service price #8"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:279 blocks/elementor/test.php:266
+msgid "Content #8"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:290 blocks/elementor/test.php:277
+msgid "Service title #9"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:296 blocks/elementor/test.php:283
+msgid "Service price #9"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:302 blocks/elementor/test.php:289
+msgid "Content #9"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:313 blocks/elementor/test.php:300
+msgid "Service title #10"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:319 blocks/elementor/test.php:306
+msgid "Service price #10"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:325 blocks/elementor/test.php:312
+msgid "Content #10"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:336 blocks/elementor/test.php:323
+msgid "Service title #11"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:342 blocks/elementor/test.php:329
+msgid "Service price #11"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:348 blocks/elementor/test.php:335
+msgid "Content #11"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:359 blocks/elementor/test.php:346
+msgid "Service title #12"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:365 blocks/elementor/test.php:352
+msgid "Service price #12"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:371 blocks/elementor/test.php:358
+msgid "Content #12"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:383
+#: blocks/elementor/info-block.php:230 blocks/elementor/test.php:372
+msgid "Background Color"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:413
+#: blocks/elementor/join-team.php:73 blocks/elementor/my-map-contacts.php:131
+msgid "Button Settings"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:423
+#: blocks/elementor/hero-header-two.php:80 blocks/elementor/hero-header.php:103
+msgid "Book Appointment"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:678
+#: blocks/elementor/hero-header-two.php:323
+#: blocks/elementor/hero-header.php:436 blocks/elementor/join-team.php:323
+#: blocks/elementor/light-button.php:327
+#: blocks/elementor/my-map-contacts.php:397
+#: blocks/elementor/team-partner.php:359 blocks/elementor/team-partner.php:411
+msgid "Button Style"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:682
+#: blocks/elementor/hero-header-two.php:327
+#: blocks/elementor/hero-header.php:440 blocks/elementor/join-team.php:327
+#: blocks/elementor/light-button.php:331
+#: blocks/elementor/my-map-contacts.php:401
+#: blocks/elementor/team-partner.php:363 blocks/elementor/team-partner.php:415
+msgid "Button Style #1"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:683
+#: blocks/elementor/hero-header-two.php:328
+#: blocks/elementor/hero-header.php:441 blocks/elementor/join-team.php:328
+#: blocks/elementor/light-button.php:332
+#: blocks/elementor/my-map-contacts.php:402
+#: blocks/elementor/team-partner.php:364 blocks/elementor/team-partner.php:416
+msgid "Button Style #2"
+msgstr ""
+
+#: blocks/elementor/full-page-services.php:684
+#: blocks/elementor/hero-header-two.php:329
+#: blocks/elementor/hero-header.php:442 blocks/elementor/join-team.php:329
+#: blocks/elementor/light-button.php:333
+#: blocks/elementor/my-map-contacts.php:403
+#: blocks/elementor/team-partner.php:365 blocks/elementor/team-partner.php:417
+msgid "Button Style #3"
+msgstr ""
+
+#: blocks/elementor/half-slider-left.php:13
+msgid "Half Slider Left"
+msgstr ""
+
+#: blocks/elementor/half-slider-left.php:49
+#: blocks/elementor/half-slider-right.php:142
+msgid "Left Side"
+msgstr ""
+
+#: blocks/elementor/half-slider-left.php:82
+#: blocks/elementor/half-slider-right.php:176
+msgid "Right Side"
+msgstr ""
+
+#: blocks/elementor/half-slider-left.php:92
+#: blocks/elementor/half-slider-right.php:152
+#: blocks/elementor/info-block.php:84
+msgid "Default title"
+msgstr ""
+
+#: blocks/elementor/half-slider-left.php:102
+#: blocks/elementor/half-slider-right.php:162
+#: blocks/elementor/info-block.php:94
+msgid "Default description"
+msgstr ""
+
+#: blocks/elementor/half-slider-left.php:122
+msgid "Right Side Button"
+msgstr ""
+
+#: blocks/elementor/half-slider-left.php:219
+#: blocks/elementor/half-slider-right.php:209 blocks/elementor/mention.php:91
+msgid "Style Settings"
+msgstr ""
+
+#: blocks/elementor/half-slider-left.php:227
+#: blocks/elementor/half-slider-right.php:217
+msgid "Slider Class"
+msgstr ""
+
+#: blocks/elementor/half-slider-left.php:237
+#: blocks/elementor/half-slider-right.php:227
+msgid "title Class"
+msgstr ""
+
+#: blocks/elementor/half-slider-left.php:257
+#: blocks/elementor/half-slider-right.php:247
+#: blocks/elementor/hero-header-two.php:347 blocks/elementor/info-block.php:273
+msgid "Button Class"
+msgstr ""
+
+#: blocks/elementor/half-slider-right.php:13
+msgid "Half Slider Right"
+msgstr ""
+
+#: blocks/elementor/half-slider-right.php:43
+msgid "Left Side Button"
+msgstr ""
+
+#: blocks/elementor/hero-header-two.php:13
+msgid "Hero Header Two"
+msgstr ""
+
+#: blocks/elementor/hero-header-two.php:54
+msgid ""
+"It Doesn’t Matter If Your Life is Perfect as Long as Your Hair Color is."
+msgstr ""
+
+#: blocks/elementor/hero-header-two.php:70
+msgid "button Settings"
+msgstr ""
+
+#: blocks/elementor/hero-header-two.php:304
+#: blocks/elementor/hero-header.php:417 blocks/elementor/join-team.php:304
+#: blocks/elementor/ordinary-page-header.php:67
+#: blocks/elementor/parallax-image.php:36
+msgid "Background image"
+msgstr ""
+
+#: blocks/elementor/hero-header-two.php:337 blocks/elementor/info-block.php:253
+#: blocks/elementor/testimonials.php:93
+msgid "Title Class"
+msgstr ""
+
+#: blocks/elementor/hero-header.php:13
+msgid "Hero Header"
+msgstr ""
+
+#: blocks/elementor/hero-header.php:44
+msgid "Title and Hours"
+msgstr ""
+
+#: blocks/elementor/hero-header.php:54
+msgid "Always Make Room for a Little Beauty in Your Life"
+msgstr ""
+
+#: blocks/elementor/hero-header.php:93
+msgid "First button"
+msgstr ""
+
+#: blocks/elementor/hero-header.php:323
+msgid "Second button"
+msgstr ""
+
+#: blocks/elementor/hero-header.php:331
+msgid "Second button text"
+msgstr ""
+
+#: blocks/elementor/hero-header.php:333
+msgid "View Service Menu"
+msgstr ""
+
+#: blocks/elementor/info-block.php:13
+msgid "Info Block"
+msgstr ""
+
+#: blocks/elementor/info-block.php:48
+msgid "Side 1"
+msgstr ""
+
+#: blocks/elementor/info-block.php:74
+msgid "Side 2"
+msgstr ""
+
+#: blocks/elementor/info-block.php:110
+msgid "Button settings"
+msgstr ""
+
+#: blocks/elementor/info-block.php:217 blocks/elementor/my-map.php:67
+msgid "Reverse"
+msgstr ""
+
+#: blocks/elementor/info-block.php:243
+msgid "Image Class"
+msgstr ""
+
+#: blocks/elementor/instagram-two.php:14
+msgid "Instagram 2"
+msgstr ""
+
+#: blocks/elementor/instagram-two.php:49
+msgid "Instagram"
+msgstr ""
+
+#: blocks/elementor/instagram-two.php:58 blocks/elementor/wpcf7-widget.php:39
+msgid "Your shortcode"
+msgstr ""
+
+#: blocks/elementor/join-team.php:13
+msgid "Join Team"
+msgstr ""
+
+#: blocks/elementor/join-team.php:363
+#: blocks/elementor/ordinary-page-header.php:111
+msgid "Padding Top"
+msgstr ""
+
+#: blocks/elementor/join-team.php:394
+#: blocks/elementor/ordinary-page-header.php:143
+#: blocks/elementor/parallax-image.php:57
+msgid "Padding Bottom"
+msgstr ""
+
+#: blocks/elementor/light-button.php:13
+msgid "Light Button"
+msgstr ""
+
+#: blocks/elementor/mention.php:13
+msgid "Mention"
+msgstr ""
+
+#: blocks/elementor/mention.php:45 blocks/elementor/team-slider.php:53
+#: blocks/elementor/team.php:53
+msgid "Image"
+msgstr ""
+
+#: blocks/elementor/mention.php:60
+msgid "Link text"
+msgstr ""
+
+#: blocks/elementor/mention.php:63
+msgid "Read Full Article"
+msgstr ""
+
+#: blocks/elementor/mention.php:100
+msgid "Message Class"
+msgstr ""
+
+#: blocks/elementor/mention.php:110
+msgid "Link Class"
+msgstr ""
+
+#: blocks/elementor/my-map-contacts.php:13
+msgid "Map and Contacts"
+msgstr ""
+
+#: blocks/elementor/my-map-contacts.php:412 blocks/elementor/my-map.php:79
+msgid "Map options"
+msgstr ""
+
+#: blocks/elementor/my-map-contacts.php:421 blocks/elementor/my-map.php:88
+msgid "accessToken"
+msgstr ""
+
+#: blocks/elementor/my-map-contacts.php:430 blocks/elementor/my-map.php:97
+msgid "Mapbox Style Link"
+msgstr ""
+
+#: blocks/elementor/my-map.php:13
+msgid "My Map"
+msgstr ""
+
+#: blocks/elementor/ordinary-page-header.php:13
+msgid "Ordinary Page Header"
+msgstr ""
+
+#: blocks/elementor/ordinary-page-header.php:41
+msgid "Your Title"
+msgstr ""
+
+#: blocks/elementor/ordinary-page-header.php:42
+msgid "Type page title here"
+msgstr ""
+
+#: blocks/elementor/ordinary-page-header.php:51
+msgid "Your description"
+msgstr ""
+
+#: blocks/elementor/ordinary-page-header.php:52
+msgid "Type page description here"
+msgstr ""
+
+#: blocks/elementor/page-heading.php:14
+msgid "Page Heading"
+msgstr ""
+
+#: blocks/elementor/parallax-image.php:13
+msgid "Parallax Image"
+msgstr ""
+
+#: blocks/elementor/service-menu-two.php:13
+msgid "Service Menu Two"
+msgstr ""
+
+#: blocks/elementor/service-menu-two.php:44
+msgid "Service tab"
+msgstr ""
+
+#: blocks/elementor/service-menu-two.php:216
+msgid "Content Class"
+msgstr ""
+
+#: blocks/elementor/service-menu.php:13
+msgid "Service Menu"
+msgstr ""
+
+#: blocks/elementor/slider-info.php:13
+msgid "Slider Info"
+msgstr ""
+
+#: blocks/elementor/slider-info.php:35
+#: blocks/elementor/testimonials-images.php:35
+#: blocks/elementor/testimonials.php:35
+msgid "Slides"
+msgstr ""
+
+#: blocks/elementor/team-partner.php:13
+msgid "Team and Partner"
+msgstr ""
+
+#: blocks/elementor/team-partner.php:44 blocks/elementor/team-slider.php:39
+#: blocks/elementor/team.php:14 blocks/elementor/team.php:39
+msgid "Team"
+msgstr ""
+
+#: blocks/elementor/team-partner.php:87
+msgid "Team Button"
+msgstr ""
+
+#: blocks/elementor/team-partner.php:185
+msgid "Partner"
+msgstr ""
+
+#: blocks/elementor/team-partner.php:228
+msgid "Partner Button"
+msgstr ""
+
+#: blocks/elementor/team-partner.php:238
+msgid "Tell Me More"
+msgstr ""
+
+#: blocks/elementor/team-partner.php:326
+msgid "Left side"
+msgstr ""
+
+#: blocks/elementor/team-partner.php:379
+msgid "Right side"
+msgstr ""
+
+#: blocks/elementor/team-slider.php:14
+msgid "Team Slider"
+msgstr ""
+
+#: blocks/elementor/team-slider.php:61 blocks/elementor/team-slider.php:63
+#: blocks/elementor/team.php:61 blocks/elementor/team.php:63
+#: blocks/elementor/testimonials-images.php:74
+#: blocks/elementor/testimonials.php:66
+msgid "Name"
+msgstr ""
+
+#: blocks/elementor/team-slider.php:64 blocks/elementor/team.php:64
+msgid "Bob"
+msgstr ""
+
+#: blocks/elementor/team-slider.php:68 blocks/elementor/team-slider.php:70
+#: blocks/elementor/team.php:68 blocks/elementor/team.php:70
+msgid "Position"
+msgstr ""
+
+#: blocks/elementor/team-slider.php:71 blocks/elementor/team.php:71
+msgid "Designer"
+msgstr ""
+
+#: blocks/elementor/test.php:13
+msgid "TEST"
+msgstr ""
+
+#: blocks/elementor/testimonials-images.php:13
+msgid "Testimonials Images"
+msgstr ""
+
+#: blocks/elementor/testimonials.php:13
+msgid "Testimonials"
+msgstr ""
+
+#: blocks/elementor/testimonials.php:113
+msgid "Arrows Class"
+msgstr ""
+
+#: blocks/elementor/woo-products-slider.php:14
+msgid "Woo Products Slider"
+msgstr ""
+
+#: blocks/elementor/woo-products-slider.php:50
+#: blocks/elementor/woo-products.php:50
+msgid "Featured products"
+msgstr ""
+
+#: blocks/elementor/woo-products-slider.php:60
+#: blocks/elementor/woo-products.php:60
+msgid "The most commented"
+msgstr ""
+
+#: blocks/elementor/woo-products-slider.php:61
+#: blocks/elementor/woo-products.php:61
+msgid "By regular price"
+msgstr ""
+
+#: blocks/elementor/woo-products-slider.php:62
+#: blocks/elementor/woo-products.php:62
+msgid "By sale price"
+msgstr ""
+
+#: blocks/elementor/woo-products-slider.php:86
+#: blocks/elementor/woo-products.php:86
+msgid "Products"
+msgstr ""
+
+#: blocks/elementor/woo-products-slider.php:118
+#: blocks/elementor/woo-products.php:118
+msgid "Order by"
+msgstr ""
+
+#: blocks/elementor/woo-products-slider.php:123
+#: blocks/elementor/woo-products.php:123
+msgid "Leave empty if you do not want to sort products."
+msgstr ""
+
+#: blocks/elementor/woo-products-slider.php:142
+#: blocks/elementor/woo-products.php:142
+msgid "Number of Products"
+msgstr ""
+
+#: blocks/elementor/woo-products-slider.php:154
+#: blocks/elementor/woo-products.php:154
+msgid "Columns number"
+msgstr ""
+
+#: blocks/elementor/woo-products.php:14
+msgid "Woo Products"
+msgstr ""
+
+#: cherie-core.php:161
+msgid "Cherie elements"
+msgstr ""
+
+#: wordpress-widgets/widget-request.php:15
+msgid "Cherie Courses Form"
+msgstr ""
+
+#: wordpress-widgets/widget-request.php:59
+msgid "Leave request"
+msgstr ""
+
+#: wordpress-widgets/widget-request.php:90
+#: wordpress-widgets/widget-subscribe.php:84
+msgid "Title:"
+msgstr ""
+
+#: wordpress-widgets/widget-request.php:94
+#: wordpress-widgets/widget-subscribe.php:88
+msgid "Sub title:"
+msgstr ""
+
+#: wordpress-widgets/widget-social.php:10
+msgid "This widget displays your social icons"
+msgstr ""
+
+#: wordpress-widgets/widget-social.php:15
+msgid "Cherie Social"
+msgstr ""
+
+#: wordpress-widgets/widget-subscribe.php:10
+msgid "This widget displays your subscribe form"
+msgstr ""
+
+#: wordpress-widgets/widget-subscribe.php:15
+msgid "Cherie Subscribe Form"
+msgstr ""
+
+#: wordpress-widgets/widget-subscribe.php:92
+msgid "Shortcode:"
+msgstr ""

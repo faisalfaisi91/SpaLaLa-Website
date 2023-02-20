@@ -1,0 +1,80 @@
+/* Lists
+   ========================================================================== */
+
+dl,
+dt,
+dd,
+ol,
+ul,
+li {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
+
+ol,
+ul {
+  list-style-position: inside;
+  margin: 2rem 0 2rem 2rem;
+
+  ol,
+  ul {
+    margin: 0 0 0 2rem;
+  }
+}
+
+ol {
+  list-style-type: decimal;
+}
+
+ul {
+  list-style-type: disc;
+}
+
+li {
+  margin-top: 6px;
+}
+
+/*================= Lists Reset =================*/
+.art-shop-cats ul.categories,
+.widget ul {
+  //list-style-position: inside;
+  list-style: none;
+  margin: 0;
+
+  li {
+    margin: 0;
+  }
+}
+.wp-block-latest-posts.wp-block-latest-posts__list {
+  list-style: none;
+  margin: 0;
+}
+
+ul.art-no-list-style,
+ol.art-no-list-style,
+ul.menu,
+ul.sub-menu {
+  list-style: none;
+  margin: 0;
+
+  li {
+    margin: 0;
+  }
+}
+
+.art-navigation-container,
+.art-nav-container {
+  ul {
+    list-style: none;
+    margin: 0;
+  }
+
+  li {
+    margin: 0;
+  }
+}
