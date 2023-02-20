@@ -1,0 +1,406 @@
+
+---Downloaded files---
+The import files for: Beauty were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = http://localhost/spalala
+Data file = /home/faisal.ali/codebase/www/spalala/wp-content/uploads/2023/02/demo-content-import-file_2023-02-15__19-18-17.xml
+Widget file = /home/faisal.ali/codebase/www/spalala/wp-content/uploads/2023/02/demo-widgets-import-file_2023-02-15__19-18-17.json
+Customizer file = /home/faisal.ali/codebase/www/spalala/wp-content/uploads/2023/02/demo-customizer-import-file_2023-02-15__19-18-17.dat
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+[WARNING] Failed to import booked_custom_calendars 228
+[WARNING] Failed to import product_cat Body
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Fragrance
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hair
+[WARNING] Failed to import product_cat Makeup
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_type PW Gift Card
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Skin Care
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import booked_custom_calendars 228
+[WARNING] Failed to import product_cat Body
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Fragrance
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hair
+[WARNING] Failed to import product_cat Makeup
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_type PW Gift Card
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Skin Care
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import booked_custom_calendars 228
+[WARNING] Failed to import product_cat Body
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Fragrance
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hair
+[WARNING] Failed to import product_cat Makeup
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_type PW Gift Card
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Skin Care
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import booked_custom_calendars 228
+[WARNING] Failed to import product_cat Body
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Fragrance
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hair
+[WARNING] Failed to import product_cat Makeup
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_type PW Gift Card
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Skin Care
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import booked_custom_calendars 228
+[WARNING] Failed to import product_cat Body
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Fragrance
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hair
+[WARNING] Failed to import product_cat Makeup
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_type PW Gift Card
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Skin Care
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import booked_custom_calendars 228
+[WARNING] Failed to import product_cat Body
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Fragrance
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hair
+[WARNING] Failed to import product_cat Makeup
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_type PW Gift Card
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Skin Care
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import booked_custom_calendars 228
+[WARNING] Failed to import product_cat Body
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Fragrance
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hair
+[WARNING] Failed to import product_cat Makeup
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_type PW Gift Card
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Skin Care
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import booked_custom_calendars 228
+[WARNING] Failed to import product_cat Body
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_cat Fragrance
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hair
+[WARNING] Failed to import product_cat Makeup
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_type PW Gift Card
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Skin Care
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import "February 19, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "February 19, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "February 25, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "February 18, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "February 17, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "February 18, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "February 18, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "March 21, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "February 19, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "February 20, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "February 28, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "February 20, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "February 20, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "February 28, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "March 2, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "March 4, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "March 5, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "March 5, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "March 25, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "March 20, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "March 18, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "March 6, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "March 27, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "March 27, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "March 7, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "March 11, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "March 24, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "March 11, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "March 13, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "March 20, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "March 17, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "March 14, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "March 21, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "March 16, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "March 29, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "March 17, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "March 17, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "March 17, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "March 17, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "March 25, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "March 25, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "March 24, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "March 25, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "March 25, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "March 26, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "March 26, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "March 26, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "March 27, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "March 28, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "March 28, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "April 4, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "March 31, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "April 1, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "April 4, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "April 6, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "April 8, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "April 8, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "April 21, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "April 16, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "April 15, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "April 15, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "April 16, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "April 20, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "April 22, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "April 21, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "April 23, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "April 23, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "April 23, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "April 29, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "May 3, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "May 5, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "May 16, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "May 7, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "May 6, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "May 7, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "May 15, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "May 8, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "May 14, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "May 14, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "May 15, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "May 15, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "May 21, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "May 19, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "May 19, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "May 21, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "May 29, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "May 31, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "June 2, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "May 31, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "May 28, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "June 3, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "June 3, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "June 5, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "June 18, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "June 16, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "June 25, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "June 23, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "June 30, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "June 26, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "July 8, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "June 29, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "July 10, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "July 22, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "July 9, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "July 14, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "July 16, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "July 17, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "July 29, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "July 15, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "July 20, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "July 28, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "July 21, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "July 21, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "July 25, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "July 22, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "July 23, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "July 23, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "July 24, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "July 28, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "July 31, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "July 30, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "July 31, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "August 13, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "August 20, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "August 4, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "August 4, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "August 5, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "August 11, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "August 10, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "August 26, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "August 13, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "August 19, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "August 28, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "August 28, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "September 1, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "September 1, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "August 24, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "August 27, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "August 31, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "September 3, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "September 10, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "September 8, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "September 8, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "September 23, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "September 7, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "September 17, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "September 7, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "September 9, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "September 16, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "September 13, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "September 13, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "September 14, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "September 15, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "September 24, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "September 17, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "September 17, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+[WARNING] Failed to import "September 23, 2021 @ 8:00 am (User: Guest)": Invalid post type booked_appointments
+
+
+---Importing widgets---
+Subscribe widget area : 
+
+Cherie Subscribe Form - Keep up to date with our advices - Imported
+
+Courses widget area : 
+
+Cherie Courses Form - Ready to Start? - Imported
+
+Footer Sidebar First Column : 
+
+Image - No Title - Imported
+Custom HTML - No Title - Imported
+
+Footer Sidebar Second Column : 
+
+Navigation Menu - No Title - Imported
+
+Footer Sidebar Third Column : 
+
+Navigation Menu - No Title - Imported
+
+Footer Sidebar Fourth Column : 
+
+Cherie Subscribe Form - We don’t keep our beauty secrets - Imported
+Cherie Social - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

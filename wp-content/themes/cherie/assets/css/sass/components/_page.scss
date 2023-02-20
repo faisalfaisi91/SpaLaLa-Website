@@ -1,0 +1,104 @@
+
+.art-default-page-custom-wrapper {
+  padding-top: 133px;
+  padding-bottom: 100px;
+
+
+  .art-page-content {
+    //padding: 0 113px 70px 113px;
+    padding: 0 113px 0 113px;
+
+    &.art-woocommerce-page {
+      padding: 0;
+
+      .art-page-title {
+        margin-bottom: 40px;
+      }
+
+    }
+  }
+
+  .art-page-title {
+    text-align: center;
+  }
+
+
+  .comment-respond form.comment-form .form-submit {
+    margin-bottom: 0;
+  }
+
+}
+
+body.art-chosen-second-header {
+
+  .art-default-page-custom-wrapper {
+    padding-top: 178px;
+  }
+
+   .art-woo-container-wrapper,
+   .art-woo-container-wrapper {
+     padding-top: 178px;
+  }
+
+}
+
+
+/* Blog Search Results */
+
+body.search-results {
+
+  &.art-chosen-second-header {
+    .art-blog-search-result {
+      padding-top: 178px;
+    }
+  }
+
+  .art-blog-search-result {
+    padding-top: 133px;
+  }
+
+  .art-blog-default-wrapper .art-blog-posts-default {
+    border-bottom: none;
+  }
+
+}
+
+body.search-no-results {
+
+  .art-blog-search-result {
+    padding: 318px 0 235px 0;
+  }
+
+}
+
+
+/* WooCommerce Account */
+
+body.woocommerce-account.woocommerce-page {
+
+  .art-page-content {
+    padding: 0 15px 0 15px;
+
+    form {
+
+      .form-row.form-row-wide {
+        padding: 0;
+
+        .password-input {
+          width: 100%;
+        }
+
+      }
+
+      .woocommerce-form-login__rememberme {
+        width: 100%;
+      }
+
+      .woocommerce-privacy-policy-text {
+        margin-bottom: 30px;
+      }
+
+    }
+  }
+
+}

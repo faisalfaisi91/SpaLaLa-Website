@@ -1,0 +1,163 @@
+
+.woocommerce-message {
+  border: none;
+  background-color: #D2F0E2;
+  padding: 18px 2em 18px 5.4em;
+  font-size: 14px;
+
+  a.restore-item,
+  a.button {
+    float: right;
+    padding: 0 0 6px 0;
+    margin-top: 2px;
+    background-color: transparent;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.02em;
+    color: #000;
+
+    border-bottom: 1px solid;
+
+    &:hover {
+      background-color: transparent;
+    }
+  }
+
+  &::before {
+    font-family: "cherie-font";
+    content: "\e816";
+    color: #000;
+    font-size: 23px;
+    top: 19px;
+  }
+}
+
+.woocommerce-info {
+  border: none;
+  background-color: rgba(152, 132, 99, 0.3);
+  padding: 18px 2em 18px 5.4em;
+  font-size: 14px;
+
+  a.button {
+    padding: 0 0 6px 0;
+    margin-top: 2px;
+    background-color: transparent;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.02em;
+    color: #000;
+
+    border-bottom: 1px solid;
+
+    &:hover {
+      background-color: transparent;
+    }
+  }
+
+
+  &::before {
+    font-family: "cherie-font";
+    content: "\e814";
+    color: #000;
+    font-size: 23px;
+    top: 19px;
+  }
+}
+
+.woocommerce-error {
+  border: none;
+  background-color: #FFE9E0;
+  padding: 18px 2em 18px 5.4em;
+  font-size: 14px;
+
+  a.button {
+    padding: 0 0 6px 0;
+    margin-top: 2px;
+    background-color: transparent;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.02em;
+    color: #000;
+
+    border-bottom: 1px solid;
+
+    &:hover {
+      background-color: transparent;
+    }
+  }
+
+
+  &::before {
+    font-family: "cherie-font";
+    content: "\e815";
+    color: #000;
+    font-size: 23px;
+    top: 19px;
+  }
+}
+
+
+.art-woo-archive-container {
+  .woocommerce-notices-wrapper {
+    margin-top: 50px;
+  }
+}
+
+
+/**/
+
+.products.columns-2 .product {
+  width: 50%!important;
+  min-width: 50%!important;
+  max-width: 50%!important;
+}
+.products.columns-3 .product {
+  width: 33.3333%!important;
+  min-width: 33.3333%!important;
+  max-width: 33.3333%!important;
+}
+.products.columns-4 .product {
+  width: 25%!important;
+  min-width: 25%!important;
+  max-width: 25%!important;
+}
+.products.columns-5 .product {
+  width: 20%!important;
+  min-width: 20%!important;
+  max-width: 20%!important;
+}
+
+
+@media (max-width: 1025px) {
+
+  .products.columns-4 .product,
+  .products.columns-5 .product {
+    width: 33.3333%!important;
+    min-width: 33.3333%!important;
+    max-width: 33.3333%!important;
+  }
+}
+@media (max-width: 768px) {
+
+  .products.columns-3 .product,
+  .products.columns-4 .product,
+  .products.columns-5 .product {
+    width: 50%!important;
+    min-width: 50%!important;
+    max-width: 50%!important;
+  }
+}
+@media (max-width: 576px) {
+
+  .products.columns-2 .product,
+  .products.columns-3 .product,
+  .products.columns-4 .product,
+  .products.columns-5 .product {
+    width: 100%!important;
+    min-width: 100%!important;
+    max-width: 100%!important;
+  }
+}

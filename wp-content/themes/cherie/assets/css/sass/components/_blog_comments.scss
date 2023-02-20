@@ -1,0 +1,148 @@
+
+.logged-in-as {
+  margin-bottom: 10px;
+}
+
+.blog-comments-area {
+  margin-top: 50px;
+
+  .comment-list {
+    margin-top: 40px;
+    margin-bottom: 50px;
+
+    // remove bottom border in the LAST comment
+    > li:last-child {
+
+      li.comment:not(.parent) {
+
+        &:last-child {
+
+          .comment-itself {
+            border-bottom: 0;
+            padding-bottom: 0;
+            margin-bottom: 0;
+          }
+
+        }
+
+      }
+
+
+    }
+    // ./ remove bottom border in the LAST comment
+
+
+    .comment {
+
+
+      .children {
+        margin-left: 84px;
+      }
+
+      .comment-wrapper {
+        display: flex;
+
+        .comment-author {
+          min-width: 60px;
+          width: 60px;
+          margin-right: 24px;
+        }
+
+        .comment-itself {
+          width: 100%;
+          border-bottom: 1px solid rgba(0,0,0, 0.1);
+          padding-bottom: 40px;
+          margin-bottom: 50px;
+
+          .comment-meta {
+            margin-bottom: 18px;
+
+            .info-meta {
+
+              .info-meta-top {
+
+                .author {
+
+                }
+              }
+
+              .comment-date {
+
+              }
+            }
+          }
+
+          .comment-text {
+            margin-bottom: 18px;
+            height: auto;
+          }
+
+          .reply a {
+            font-weight: 400;
+            font-size: 13px;
+            line-height: 19px;
+            letter-spacing: 0.1em;
+            text-transform: uppercase;
+          }
+        }
+
+      }
+
+
+
+    }
+  }
+}
+
+
+.comment-respond {
+
+  .comment-reply-title {
+    margin-bottom: 10px;
+
+    small {
+      margin-left: 20px;
+    }
+  }
+
+  form.comment-form {
+
+    .art-line-fields {
+      display: flex;
+      margin: 24px -15px 0 -15px;
+
+      p {
+        padding: 0 15px;
+        width: 100%;
+        margin-bottom: 30px;
+      }
+    }
+
+    .comment-form-cookies-consent { // I could not delete it with php
+      display: none;
+    }
+
+    .comment-form-comment {
+
+      textarea {
+        //margin-top: 30px;
+        height: 240px;
+        width: 100%;
+      }
+    }
+
+    .form-submit {
+      margin-top: 30px;
+      margin-bottom: 60px;
+
+      display: flex;
+      justify-content: flex-end;
+
+      input[type=submit] {
+
+      }
+    }
+
+  }
+
+}

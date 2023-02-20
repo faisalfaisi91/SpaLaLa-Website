@@ -1,0 +1,29 @@
+
+
+body.elementor-editor-active {
+
+  header.art-header-one.art-header-show-border .art-header-one-content {
+    position: static !important;
+  }
+
+  header.art-header-one .art-header-one-content {
+    position: static !important;
+  }
+
+  .art-preloader-holder {
+    display: none !important;
+  }
+}
+
+body.logged-in {
+  .art-preloader-holder {
+    display: none !important;
+  }
+}
+
+body.elementor-editor-active {
+
+  header.art-header-two .art-header-two-content {
+    position: static !important;
+  }
+}

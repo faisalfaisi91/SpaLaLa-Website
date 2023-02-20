@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg enable-background="new 0 0 24 24" version="1.1" viewBox="0 0 24 24" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+<style type="text/css">
+	.st0{fill:#F6EBE7;}
+</style>
+<polygon class="st0" points="7.1 7 8.1 7 15.9 7 16.9 7 19.1 7 19.9 22 4.1 22 4.9 7"/>
+<path d="M16,9v1h1V9H16z M7,9v1h1V9H7z M16,9v1h1V9H16z M7,10h1V9H7V10z M16,9v1h1V9H16z M7,10h1V9H7V10z M20.1,6.9  c0-0.5-0.5-0.9-1-0.9H17c0-2.8-2.2-5-5-5S7,3.2,7,6H4.9c-0.5,0-1,0.4-1,0.9L3,21.9c0,0.3,0.1,0.5,0.3,0.8S3.8,23,4.1,23H20  c0.3,0,0.5-0.1,0.7-0.3s0.3-0.5,0.3-0.8L20.1,6.9z M12,2c2.2,0,4,1.8,4,4H8C8,3.8,9.8,2,12,2z M4.1,22L4.9,7h14.2l0.8,15H4.1z   M16,10h1V9h-1V10z M7,10h1V9H7V10z"/>
+</svg>

@@ -1,0 +1,191 @@
+/*## Career Single ##*/
+
+.art-career-single-wrapper {
+
+
+  .art-single-career-top {
+    min-height: 683px;
+    display: flex;
+
+
+    .art-single-post-left {
+      position: relative;
+      width: 50%;
+
+      .art-blog-top-image {
+
+        height: 100%;
+        /*position: absolute;
+        left:0;
+        top: 0;*/
+
+        background-size: cover;
+        background-position: center center;
+      }
+    }
+
+    .art-single-post-right {
+      display: flex;
+      align-items: center;
+
+      width: 50%;
+      height: 100%;
+      min-height: 683px;
+
+      .art-single-post-right-data {
+        padding: 0 141px;
+        text-align: center;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+
+
+        .art-career-location {
+          margin-bottom: 23px;
+        }
+
+        .art-post-title {
+          margin-bottom: 50px;
+        }
+
+
+      }
+
+    }
+
+
+  }
+
+
+  .art-post-content-wrapper {
+
+    .art-post-the-content {
+      //padding-top: 100px;
+      //padding-bottom: 70px;
+
+      padding: 100px 113px 70px 113px;
+    }
+
+
+
+    .art-career-button {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 100px;
+    }
+
+
+    .art-single-blog-share {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+
+      margin-bottom: 100px;
+
+      .art-social-share-buttons {
+        margin-top: 24px;
+
+        a {
+          padding: 0 10px;
+
+          i {
+            font-size: 22px;
+          }
+        }
+      }
+    }
+
+
+    .art-single-navigation {
+      border-top: 1px solid rgba(0, 0, 0, 0.1);
+      border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+      padding: 50px 0;
+
+      nav {
+
+        .nav-links {
+          display: flex;
+
+
+          .nav-previous {
+            width: 50%;
+
+            .post-nav-prev {
+              display: flex;
+
+              .nav-image {
+                margin-right: 30px;
+                min-width: 100px;
+              }
+
+              .nav-data {
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+
+                padding-right: 100px;
+
+                span {
+                  display: block;
+                }
+
+                .art-nav-direction {
+                  text-transform: uppercase;
+                  margin-bottom: 12px;
+                }
+              }
+            }
+          } // .nav-previous
+
+          .nav-next {
+            width: 50%;
+
+            .post-nav-next {
+              display: flex;
+
+              .nav-data {
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+
+                text-align: right;
+                padding-left: 100px;
+
+                span {
+                  display: block;
+                }
+
+                .art-nav-direction {
+                  text-transform: uppercase;
+                  margin-bottom: 12px;
+                }
+
+              }
+
+              .nav-image {
+                margin-left: 30px;
+                min-width: 100px;
+              }
+            }
+          }
+
+        }
+      }
+    }
+
+
+    .art-related-posts-title {
+      text-align: center;
+      margin-bottom: 50px;
+    }
+
+    .art-career-posts {
+      margin-bottom: 70px;
+    }
+
+
+  }
+
+
+}

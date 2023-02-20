@@ -1,0 +1,297 @@
+
+
+.art-cart-page-wrapper {
+
+
+  .art-cart-page-left {
+
+    .woocommerce-cart-form {
+
+      table.shop_table.cart {
+        border: none;
+        margin-bottom: 0;
+
+        thead {
+
+          tr {
+
+            th {
+              border-top: 1px solid rgba(0, 0, 0, 0.1);
+              border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+              font-weight: 400;
+              font-size: 14px;
+              line-height: 20px;
+              padding: 15px 0;
+              text-align: center;
+            }
+          }
+        }
+
+        tbody {
+
+          tr {
+
+            td {
+              border-top: none;
+
+              &.product-thumbnail {
+                padding: 30px 0;
+                width: 92px;
+
+                a {
+                  img {
+                    width: 92px;
+                  }
+                }
+              }
+
+              &.product-name {
+                padding-left: 24px;
+                padding-right: 63px;
+
+                width: 274px;
+              }
+
+              &.product-price {
+
+              }
+
+              &.product-quantity {
+                text-align: center;
+
+                .quantity {
+                  margin: 0 auto;
+                }
+              }
+
+              &.product-subtotal {
+                text-align: center;
+              }
+
+              &.product-remove {
+                padding-left: 0;
+                padding-right: 0;
+                width: 24px;
+
+                a.remove {
+                  color: #000 !important;
+
+                  &:hover {
+                    background-color: unset;
+                  }
+
+                  .icon-cherie_close {
+
+                    &::before {
+                      margin: 0;
+                    }
+
+                  }
+                }
+
+
+              }
+
+
+              &.actions {
+                padding: 30px 0 0 0;
+                border-top: 1px solid rgba(0,0,0, 0.1);
+
+
+                .coupon {
+                  width: 300px;
+                  position: relative;
+
+                  .art-input-text-coupon {
+
+                  }
+
+                  .art-apply-coupon {
+                    position: absolute;
+                    top: 0;
+                    right: 0;
+                    padding: 14px 25px;
+                  }
+
+                }
+
+                .art-update-cart {
+                  padding: 11px 0 5px 0;
+
+                  &:hover {
+                    background: unset;
+                  }
+
+                  &:disabled[disabled] {
+                    opacity: 1;
+                  }
+                }
+              }
+
+            }
+          }
+        }
+
+      }
+    }
+  }
+
+  .art-cart-page-right {
+
+    .cart-collaterals {
+      padding: 30px;
+      background-color: #FAF8F8;
+
+      .cart_totals {
+        float: none;
+        width: 100%;
+
+        .art-shipping-wrapper {
+
+          form.woocommerce-shipping-calculator {
+            margin-top: 24px;
+
+            .art-shipping-calculator-button {
+              margin-bottom: 15px;
+              display: block;
+            }
+
+            section.art-shipping-calculator-form {
+              margin-bottom: 40px;
+              display: block !important;
+
+              p.form-row {
+                padding: 0;
+                margin: 0;
+
+                .select2-container {
+                  margin: 0 0 30px;
+                }
+
+                .input-text {
+                  margin: 0 0 30px;
+                }
+
+                select.state_select,
+                span.select2-container {
+                  display: block;
+                  margin: 0 0 30px;
+                }
+
+              }
+
+              p.art-update-shipping {
+                text-align: right;
+              }
+
+              span {
+                width: 100% !important;
+              }
+            }
+
+          }
+
+          .woocommerce-shipping-destination {
+            display: block;
+            padding: 4px 0;
+          }
+
+          ul#shipping_method {
+
+
+            li {
+              margin: 0;
+
+              label {
+                padding: 4px 0;
+                margin: 0;
+                width: 100%;
+                display: flex;
+                justify-content: space-between;
+              }
+            }
+
+            .amount {
+              font-weight: 300;
+            }
+          }
+
+        }
+
+        table.shop_table_responsive {
+          border: none;
+
+          tbody {
+
+            tr.cart-subtotal {
+
+              th {
+                font-weight: 400;
+                padding: 4px 0;
+                text-align: left;
+              }
+
+              td {
+                padding: 4px 0;
+                text-align: right;
+              }
+            }
+
+            tr.order-total {
+
+              th {
+                text-align: left;
+                padding: 4px 0;
+                border-top: 0;
+              }
+
+              td {
+                padding: 4px 0;
+                border-top: 0;
+                text-align: right;
+              }
+            }
+
+          }
+        }
+
+
+        .wc-proceed-to-checkout {
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+
+          .art-checkout {
+            width: 100%;
+            margin-bottom: 60px;
+          }
+
+          #pwgc-redeem-gift-card-form {
+            width: 100%;
+
+            #pwgc-redeem-gift-card-container {
+              margin-bottom: 40px;
+            }
+
+            #pwgc-redeem-gift-card-number {
+              width: 100%;
+            }
+
+            #pwgc-redeem-button {
+              width: 100%;
+              display: block;
+              margin-top: 10px;
+            }
+
+          }
+
+        }
+
+      }
+
+    }
+
+  }
+
+}
+

@@ -1,0 +1,72 @@
+
+---Downloaded files---
+The import files for: Beauty were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://firstsight.design/cherie/beauty
+Data file = /var/www/html/cherie/beauty/wp-content/uploads/2021/02/demo-content-import-file_2021-02-12__13-48-19.xml
+Widget file = /var/www/html/cherie/beauty/wp-content/uploads/2021/02/demo-widgets-import-file_2021-02-12__13-48-19.json
+Customizer file = /var/www/html/cherie/beauty/wp-content/uploads/2021/02/demo-customizer-import-file_2021-02-12__13-48-19.dat
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Subscribe widget area : 
+
+Cherie Subscribe Form - Keep up to date with our advices - Imported
+
+Courses widget area : 
+
+Cherie Courses Form - Ready to Start? - Imported
+
+Footer Sidebar First Column : 
+
+Image - No Title - Imported
+Custom HTML - No Title - Imported
+
+Footer Sidebar Second Column : 
+
+Navigation Menu - No Title - Imported
+
+Footer Sidebar Third Column : 
+
+Navigation Menu - No Title - Imported
+
+Footer Sidebar Fourth Column : 
+
+Cherie Subscribe Form - We don’t keep our beauty secrets - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
